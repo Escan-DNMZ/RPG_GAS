@@ -5,5 +5,6 @@ Tom Looman kursu ile beraber başlıyıp kendime göre geliştirdiğim RPG proje
 
 
 
-https://user-images.githubusercontent.com/84273839/235075814-f4aed556-47a1-46c6-9e68-ffe7bbfc2bc1.mp4
+
+https://user-images.githubusercontent.com/84273839/235077891-3d15ef34-1936-4d4e-a13e-f075233ccc5b.mp4
 
